@@ -1,6 +1,4 @@
-from shop.menu import MenuItem, OrderItem
-from shop.counter import Counter
-from shop.bar import Bar
+from shop import MenuItem, OrderItem, Counter, Bar
 
 
 # --------------- ADMIN SIDE ---------------
